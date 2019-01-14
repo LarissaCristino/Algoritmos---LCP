@@ -28,4 +28,4 @@ A mais utilizada é a perspectiva do Pior caso (O).
  
 [1] Cavalcante, André Luiz Duarte. "O que é complexidade computacional? Como ela é medida?" *Quora*. Disponível em: <https://pt.quora.com/O-que-%C3%A9-complexidade-computacional-Como-ela-%C3%A9-medida>. Acesso em: 13 de janeiro de 2019.
 
-[2] *# Complexidade computacional*. Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Complexidade_computacional>. Acesso em: 13 de janeiro de 2019.
+[2] *Complexidade computacional*. Wikipédia. Disponível em: <https://pt.wikipedia.org/wiki/Complexidade_computacional>. Acesso em: 13 de janeiro de 2019.
